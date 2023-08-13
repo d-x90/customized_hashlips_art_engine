@@ -1,0 +1,38 @@
+{
+  "name": "Cursed Mickey #331",
+  "symbol": "CMD",
+  "description": "The first victim of the bad trip mask - 666 Mickeys consumed by the curse of the bad trip.",
+  "seller_fee_basis_points": 750,
+  "image": "https://arweave.net/Y1PFeTmvSBM8WF1dCIHaW9DRNTebIguiUl6tUJ9O3yo?ext=png",
+  "external_url": "",
+  "attributes": [
+    { "trait_type": "Back", "value": "None" },
+    { "trait_type": "Body", "value": "Cornelius" },
+    { "trait_type": "Bristle", "value": "None" },
+    { "trait_type": "Clothing", "value": "Icarus" },
+    { "trait_type": "Accessories", "value": "None" },
+    { "trait_type": "Eyes", "value": "White" },
+    { "trait_type": "Glasses", "value": "Pina colada" },
+    { "trait_type": "Head", "value": "Blue mushrooms" },
+    { "trait_type": "Face accessories", "value": "Gold yokai" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/Y1PFeTmvSBM8WF1dCIHaW9DRNTebIguiUl6tUJ9O3yo?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "J7T25FgKxrHqL7CpX8r6kSMcSRgST21mgkf5jCtw1z6j",
+        "share": 45
+      },
+      {
+        "address": "9m6E8rpzLRwLRZMVVzBj8MZcwyUnbxRJgmzbDv8vEGe2",
+        "share": 45
+      },
+      { "address": "5K5MD9fHd3TgzwzHL6v5uUB48LXfrbg5RjwcNqToYRGd", "share": 10 }
+    ]
+  }
+}
